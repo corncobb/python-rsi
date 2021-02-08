@@ -32,7 +32,7 @@ geopy==1.11.0
 googlemaps==2.4.4
 gpsoauth==0.3.0
 gunicorn==19.0.0
-httplib2==0.9
+httplib2==0.19.0
 idna==2.0
 ipaddress==1.0.14
 itsdangerous==0.24
